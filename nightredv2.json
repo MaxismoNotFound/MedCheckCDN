@@ -234,7 +234,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/MaxismoNotFound/MedCheckCDN/refs/heads/main/vampgirl.png",
+    "url": "https://github.com/MaxismoNotFound/MedCheckCDN/blob/main/vampgirlip.png?raw=true",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
